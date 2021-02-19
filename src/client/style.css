@@ -76,8 +76,7 @@ body, p, h1, h2, ul{
 }
 #submenu ul{
 	padding-left: 0px;
-	font-size: 0px; /* Убираем отступы inline-block для li*/
-}
+	font-size: 0px;
 #submenu li{
 	display: inline-block;
 	
