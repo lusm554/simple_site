@@ -77,9 +77,10 @@ body, p, h1, h2, ul{
 #submenu ul{
 	padding-left: 0px;
 	font-size: 0px;
+}
+
 #submenu li{
-	display: inline-block;
-	
+	display: inline-block;	
 }
 
 #submenu li a{
