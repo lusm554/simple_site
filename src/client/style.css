@@ -44,7 +44,7 @@ body, p, h1, h2, ul{
 }
 #main_menu ul{
 	padding-left: 0px;
-	font-size: 0px; /* Убираем отступы inline-block для li*/
+	font-size: 0px;
 }
 #main_menu li{
 	display: inline-block;
